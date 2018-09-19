@@ -8,6 +8,7 @@
   <ItemGroup>
     <Compile Include="src/lexer.fs" />
     <Compile Include="src/parser.fs" />
+    <Compile Include="src/eval.fs" />
     <Compile Include="src/Program.fs" />
   </ItemGroup>
 

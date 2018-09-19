@@ -1,6 +1,5 @@
 module Lexer 
 open System
-open System.Collections.Generic
 
 type Token =
   | Unknown
